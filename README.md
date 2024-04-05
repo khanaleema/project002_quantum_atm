@@ -10,3 +10,7 @@ Features:
 3) Robust error handling mechanisms to ensure smooth operation.
 4) Utilizes TypeScript's strong typing to enhance code clarity and maintainability.
 5)  Well-documented codebase, facilitating ease of understanding and contribution.
+
+Author:
+
+@aleemakhan
